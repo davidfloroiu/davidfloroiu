@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidfloroiu
 - 👀 I’m interested in learning app development and web development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Python, HTML & CSS, and JavaScript
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 Reach me at davidafloroiu@gmail.com
 
